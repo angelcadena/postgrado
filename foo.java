@@ -9,12 +9,6 @@ public class Foo {
    public void setFirstName(String firstName) {
       this.firstName = firstName;
    }
-   public String getLastName() {
-      return lastName;
-   }
-   public void setLastName(String lastName) {
-      this.lastName = lastName;
-   }
 }
    public String getSecondName() {
       return secondName;
